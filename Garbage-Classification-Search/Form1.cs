@@ -237,5 +237,9 @@ namespace Garbage_Classification_Search
             System.Diagnostics.Process.Start("https://github.com/alexayan/garbage-classification-data/raw/master/garbage.json");
         }
 
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/MAX-XiaoKui/Garbage-Classification-Search");
+        }
     }
 }
