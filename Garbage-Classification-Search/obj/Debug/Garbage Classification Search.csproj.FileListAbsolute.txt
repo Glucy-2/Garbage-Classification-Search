@@ -1,0 +1,24 @@
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\bin\Debug\Garbage Classification Search.exe.config
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\bin\Debug\Garbage Classification Search.exe
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\bin\Debug\Garbage Classification Search.pdb
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\bin\Debug\Newtonsoft.Json.xml
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Garbage Classification Search.csprojAssemblyReference.cache
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Garbage_Classification_Search.Form1.resources
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Garbage_Classification_Search.Properties.Resources.resources
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Garbage Classification Search.csproj.GenerateResource.cache
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Garbage Classification Search.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Garbage Classification Search.csproj.CopyComplete
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Garbage Classification Search.exe
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Garbage Classification Search.pdb
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\bin\Debug\Garbage Classification Search.exe.config
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\bin\Debug\Garbage Classification Search.exe
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\bin\Debug\Garbage Classification Search.pdb
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\bin\Debug\Newtonsoft.Json.xml
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\obj\Debug\Garbage Classification Search.csprojAssemblyReference.cache
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\obj\Debug\Garbage_Classification_Search.Form1.resources
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\obj\Debug\Garbage_Classification_Search.Properties.Resources.resources
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\obj\Debug\Garbage Classification Search.csproj.GenerateResource.cache
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\obj\Debug\Garbage Classification Search.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\obj\Debug\Garbage Classification Search.csproj.CopyComplete
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\obj\Debug\Garbage Classification Search.exe
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Garbage-Classification-Search\obj\Debug\Garbage Classification Search.pdb

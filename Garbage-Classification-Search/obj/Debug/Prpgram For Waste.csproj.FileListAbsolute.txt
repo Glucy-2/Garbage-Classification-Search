@@ -1,0 +1,26 @@
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\obj\Debug\Prpgram For Waste.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\obj\Debug\Prpgram_For_Waste.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\obj\Debug\Prpgram For Waste.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\obj\Debug\Prpgram For Waste.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\obj\Debug\Prpgram For Waste.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\obj\Debug\Prpgram_For_Waste.Form1.resources
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\bin\Debug\Program For Waste.exe.config
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\bin\Debug\Program For Waste.exe
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\bin\Debug\Program For Waste.pdb
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\obj\Debug\Program For Waste.exe
+C:\Users\lenovo\source\repos\Prpgram For Waste\Prpgram For Waste\obj\Debug\Program For Waste.pdb
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\bin\Debug\Program For Waste.exe.config
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\bin\Debug\Program For Waste.exe
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\bin\Debug\Program For Waste.pdb
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\bin\Debug\Newtonsoft.Json.dll
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\bin\Debug\Newtonsoft.Json.xml
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Prpgram For Waste.csprojAssemblyReference.cache
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Prpgram_For_Waste.Form1.resources
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Prpgram_For_Waste.Properties.Resources.resources
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Prpgram For Waste.csproj.GenerateResource.cache
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Prpgram For Waste.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Prpgram For Waste.csproj.CopyComplete
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Program For Waste.exe
+F:\Documents\GitHub\Garbage-Classification-Search\Garbage-Classification-Search\Prpgram For Waste\obj\Debug\Program For Waste.pdb
